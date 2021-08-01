@@ -15,14 +15,14 @@ to use libraries such as NumPy and pandas.
 In order to run the program, you will need to install a few libraries.
 
 ##### Streamlit
-https://streamlit.io/
+[StreamLit Link](https://streamlit.io/)
 <br /> Streamlit uses scripts to create a web application for data.
 ```
 pip install streamlit
 ```
 
 ##### yfinance
-https://pypi.org/project/yfinance/
+[yfinance Link](https://pypi.org/project/yfinance/)
 <br /> yfinance acts as an alternative to Yahoo! finance's decommissioned API. yfinance allows us to retrieve historic market data.
 ```
 pip install yfinance
